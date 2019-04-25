@@ -1,0 +1,21 @@
+{
+  "brokenTestObjects" : [ {
+    "approved" : false,
+    "proposedXPath" : "//input[@id='txt-username']",
+    "testObjectId" : "Object Repository/Page_CURA Healthcare Service/input_Username_username",
+    "brokenXPath" : "//input[@id='txt-usernamehshshsshshssh']",
+    "pathToScreenshot" : ""
+  }, {
+    "approved" : false,
+    "proposedXPath" : "//a[@id='btn-make-appointment']",
+    "testObjectId" : "Object Repository/Page_CURA Healthcare Service/a_Make Appointment (1)",
+    "brokenXPath" : "//a[@id='btn-make-appointment'dskskksksjkkkkkkkkkkkkkkkkkkkkkkkkssksksskkksksksksksksksksksksksk]",
+    "pathToScreenshot" : "C:/Users/lieuhuynh/Katalon Studio/SmartXpathPluginDemo/Reports/smart_xpath/Object Repository/Page_CURA Healthcare Service/a_Make Appointment (1)_attributes.png"
+  }, {
+    "approved" : false,
+    "proposedXPath" : "//a[@id='btn-make-appointment']",
+    "testObjectId" : "Object Repository/Page_CURA Healthcare Service/a_Make Appointment (1)",
+    "brokenXPath" : "//a[@id='btn-make-appointment'dskskkskskssksksskkksksksksksksksksksksksk]",
+    "pathToScreenshot" : "C:/Users/lieuhuynh/Katalon Studio/SmartXpathPluginDemo/Reports/smart_xpath/Object Repository/Page_CURA Healthcare Service/a_Make Appointment (1)_attributes.png"
+  } ]
+}

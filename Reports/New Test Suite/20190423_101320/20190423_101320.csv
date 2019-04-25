@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Firefox 66.0,,,2019-04-23 10:13:26,2019-04-23 10:14:06,40.105s,FAILED
+,,,,,,,
+Test Cases/test01,Firefox 66.0,,,2019-04-23 10:13:26,2019-04-23 10:14:05,39.182s,FAILED
+"openBrowser("""")",Firefox 66.0,,,2019-04-23 10:13:26,2019-04-23 10:13:30,3.792s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Firefox 66.0,,,2019-04-23 10:13:30,2019-04-23 10:13:34,4.297s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/a_Make Appointment""))",Firefox 66.0,,,2019-04-23 10:13:34,2019-04-23 10:13:35,0.416s,PASSED
+"setText(findTestObject(""Object Repository/Page_CURA Healthcare Service/input_Username_username""), ""sdddd"")",Firefox 66.0,,,2019-04-23 10:13:35,2019-04-23 10:14:05,30.432s,FAILED

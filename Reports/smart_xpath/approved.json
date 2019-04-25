@@ -1,0 +1,9 @@
+{
+  "brokenTestObjects" : [ {
+    "approved" : true,
+    "proposedXPath" : "//input[@id='txt-username']",
+    "testObjectId" : "Object Repository/Page_CURA Healthcare Service/input_Username_username (1)",
+    "brokenXPath" : "//input[@id='txt-username'hdhdhhdhđhdhdkđkdkđkdkkkdkdkdkdkdkdkk]",
+    "pathToScreenshot" : ""
+  } ]
+}
